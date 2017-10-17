@@ -1,0 +1,1 @@
+This is simple project used for testing JSP code. 
